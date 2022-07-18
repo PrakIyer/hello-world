@@ -8,7 +8,7 @@
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <BR>
     <BR>
-    <label for="psw"><b>Password</b></label>
+    <label for="psw">Enter Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
 
     <label for="psw-repeat"><b>Repeat Password</b></label>
